@@ -1,0 +1,3 @@
+[submodule "vendor/github.com/Native-Intelligence/NISCore"]
+	path = vendor/github.com/Native-Intelligence/NISCore
+	url = git@github.com:Native-Intelligence/NISCore.git
